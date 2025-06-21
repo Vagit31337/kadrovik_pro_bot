@@ -1,0 +1,36 @@
+{
+  "999077284": {
+    "user_id": 999077284,
+    "username": "Vagittigav",
+    "date": "2025-06-21 10:54",
+    "items": [
+      {
+        "id": "item_001",
+        "name": "Приказ о приеме на работу",
+        "price": 299,
+        "file_id": "",
+        "quantity": 2
+      }
+    ],
+    "total": 598,
+    "status": "pending",
+    "receipt_file_id": "AgACAgIAAxkBAANDaFZlKWKwV0PFiuwsNzDW0m9FkYoAAgzqMRuCyLBKK9n4_fIS7H8BAAMCAAN5AAM2BA"
+  },
+  "5053032726": {
+    "user_id": 5053032726,
+    "username": "Svetlanav_Hr",
+    "date": "2025-06-21 10:22",
+    "items": [
+      {
+        "id": "item_001",
+        "name": "Приказ о приеме на работу",
+        "price": 299,
+        "file_id": "",
+        "quantity": 2
+      }
+    ],
+    "total": 598,
+    "status": "pending",
+    "receipt_file_id": "AgACAgIAAxkBAAMyaFZdzwrvYYCNx5HWz3R8aVVABAIAAnnyMRuZOLhKLKSoLC3ZBSUBAAMCAAN5AAM2BA"
+  }
+}
